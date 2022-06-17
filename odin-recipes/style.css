@@ -1,0 +1,19 @@
+.ingredients {
+    background-color: red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 48px;
+}
+
+.ingredients.list {
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+
+.steps.list {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#cereal {
+    background-color: green;
+}
